@@ -1,0 +1,154 @@
+[
+    {
+        "person": {
+            "id": 60414,
+            "url": "http://www.tvmaze.com/people/60414/fumiko-orikasa",
+            "name": "Fumiko Orikasa",
+            "country": {
+                "name": "Japan",
+                "code": "JP",
+                "timezone": "Asia/Tokyo"
+            },
+            "birthday": "1974-12-27",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/79/198122.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/79/198122.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/people/60414"
+                }
+            }
+        },
+        "character": {
+            "id": 288162,
+            "url": "http://www.tvmaze.com/characters/288162/hellsing-ultimate-seras-victoria",
+            "name": "Seras Victoria",
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/183328.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/183328.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/characters/288162"
+                }
+            }
+        }
+    },
+    {
+        "person": {
+            "id": 60606,
+            "url": "http://www.tvmaze.com/people/60606/jouji-nakata",
+            "name": "Jouji Nakata",
+            "country": {
+                "name": "Japan",
+                "code": "JP",
+                "timezone": "Asia/Tokyo"
+            },
+            "birthday": "1954-04-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/14/36515.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/14/36515.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/people/60606"
+                }
+            }
+        },
+        "character": {
+            "id": 288161,
+            "url": "http://www.tvmaze.com/characters/288161/hellsing-ultimate-alucard",
+            "name": "Alucard",
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/183325.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/183325.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/characters/288161"
+                }
+            }
+        }
+    },
+    {
+        "person": {
+            "id": 60643,
+            "url": "http://www.tvmaze.com/people/60643/yoshiko-sakakibara",
+            "name": "Yoshiko Sakakibara",
+            "country": {
+                "name": "Japan",
+                "code": "JP",
+                "timezone": "Asia/Tokyo"
+            },
+            "birthday": "1956-05-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/26/65743.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/26/65743.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/people/60643"
+                }
+            }
+        },
+        "character": {
+            "id": 288163,
+            "url": "http://www.tvmaze.com/characters/288163/hellsing-ultimate-sir-integra-fairbrook-wingates-hellsing",
+            "name": "Sir Integra Fairbrook Wingates Hellsing",
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/183327.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/183327.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/characters/288163"
+                }
+            }
+        }
+    },
+    {
+        "person": {
+            "id": 55954,
+            "url": "http://www.tvmaze.com/people/55954/norio-wakamoto",
+            "name": "Norio Wakamoto",
+            "country": {
+                "name": "Japan",
+                "code": "JP",
+                "timezone": "Asia/Tokyo"
+            },
+            "birthday": "1945-10-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/16/40817.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/40817.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/people/55954"
+                }
+            }
+        },
+        "character": {
+            "id": 288164,
+            "url": "http://www.tvmaze.com/characters/288164/hellsing-ultimate-alexander-anderson",
+            "name": "Alexander Anderson",
+            "image": {
+                "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/73/183326.jpg",
+                "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/183326.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "http://api.tvmaze.com/characters/288164"
+                }
+            }
+        }
+    }
+]
